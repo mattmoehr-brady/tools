@@ -1,2 +1,2 @@
 # tools
-Placeholder
+Placeholder for the `mspx` PyPi package name.
